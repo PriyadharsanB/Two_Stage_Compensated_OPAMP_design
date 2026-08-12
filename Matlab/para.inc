@@ -1,0 +1,11 @@
+.param L=5e-07
+.param W1=2.40303e-07
+.param W2=2.40303e-07
+.param W3=1.86551e-06
+.param W4=1.86551e-06
+.param W5=3.6539e-06
+.param W6=1.02941e-05
+.param W7=1.00813e-05
+.param W8=3.6539e-06
+.param cc=5.6e-13
+.param cl=2e-12
