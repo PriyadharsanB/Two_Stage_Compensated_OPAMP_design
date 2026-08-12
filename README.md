@@ -66,4 +66,4 @@ Design target: **60 dB DC gain**, **>60° phase margin**, **20 V/µs slew rate**
 
 ---
 
-*Full design report and simulation files available on request.*
+
