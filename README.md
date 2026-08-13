@@ -44,7 +44,7 @@ Design target: **60 dB DC gain**, **>60° phase margin**, **20 V/µs slew rate**
 
 **Power Dissipation** — Measured at 287.08 µW with no input signal, just under the 300 µW budget. Static power (P = VDD × I_total) is set by the tail current and second-stage bias current, confirming both were sized tightly enough to meet performance targets without overspending on quiescent current.
 
-## Architecture
+## Circuit Architecture
 
 - **Stage 1:** NMOS differential pair with PMOS active load (current mirror) — sets initial gain and performs differential-to-single-ended conversion
 - **Stage 2:** Common-source amplifier — adds gain and extends output swing
