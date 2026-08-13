@@ -51,7 +51,7 @@ Design target: **60 dB DC gain**, **>60° phase margin**, **20 V/µs slew rate**
 - **Compensation:** Miller capacitor (Cc) across the two stages, performing pole-splitting for closed-loop stability
 - **Biasing:** Current mirror network setting the tail current and second-stage bias point, with all devices kept in saturation across the ICMR
 
-## Applications Demonstrated
+## Applications Simulated
 
 - Inverting amplifier
 - Integrator
@@ -59,7 +59,7 @@ Design target: **60 dB DC gain**, **>60° phase margin**, **20 V/µs slew rate**
 - Summing amplifier
 - Comparator
 
-## Tools
+## Tools and Software
 
 - LTspice (180 nm TSMC BSIM3 Level 49 model)
 - MATLAB (parameterized design automation — W/L ratios and bias currents computed and linked to LTspice via a parameter file)
