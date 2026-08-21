@@ -6,7 +6,7 @@ A two-stage CMOS operational amplifier designed and simulated in LTspice using 1
 
 By Priyadharsan
 ---
-**mentorship project in ACM Vidyut**
+**mentorship project as a mentee from ACM Vidyut**
 
 ---
 
